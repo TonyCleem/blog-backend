@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"win",
+				"wine_categories"
+			],
+			[
+				"get",
+				"get_wine_categories"
+			],
+			[
+				"re",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: New Channel…"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Fonts",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Mon",
+				"Monokai Pro: select theme"
+			],
+			[
+				"Mo",
+				"Monokai Pro: select theme"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 365.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tony/Devman/GitHub/olya-frontend/index.html",
+		"/home/tony/Документы/Obsidian Vault/main_test.py",
+		"/home/tony/Документы/Obsidian Vault/main_after_black.py",
+		"/home/tony/Документы/Obsidian Vault/test.html",
+		"/home/tony/Документы/Obsidian Vault/test2.html",
+		"/home/tony/Devman/GitHub/wine/README.md",
+		"/home/tony/Devman/GitHub/wine/.gitignore",
+		"/home/tony/Devman/GitHub/wine/.env",
+		"/home/tony/Devman/GitHub/wine/requirements.txt",
+		"/home/tony/Devman/GitHub/wine/test.py",
+		"/home/tony/Devman/GitHub/wine/template.html",
+		"/home/tony/.config/sublime-text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/tony/Devman/GitHub/wine/panadas.py",
+		"/home/tony/Devman/GitHub/wine/wine.xlsx",
+		"/home/tony/Devman/GitHub/wine/index.html",
+		"/home/tony/Devman/GitHub/sensive-blog/.gitignore",
+		"/home/tony/Devman/python_scripts/hello_world.py",
+		"/home/tony/Devman/GitHub/new-sensive-blog/tonycleem_key.pub",
+		"/media/tony/6b16c137-c2b3-48a1-af8b-f9b40f70647e/home/tc/Github/OLD/real_estate_agency (try)/property/migrations/__init__.py",
+		"/media/tony/6b16c137-c2b3-48a1-af8b-f9b40f70647e/home/tc/Github/real_estate_agency/property/migrations/__init__.py"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
